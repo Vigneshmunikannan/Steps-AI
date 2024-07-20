@@ -1,0 +1,26 @@
+.doctor-info-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.error {
+    color: red;
+    font-size: 16px;
+}
+
+.doctor-info {
+    margin-top: 20px;
+}
+
+.doctor-info h2 {
+    margin-bottom: 10px;
+}
+
+.doctor-info p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.doctor-info strong {
+    color: #333;
+}
